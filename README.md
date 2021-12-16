@@ -1,7 +1,6 @@
 - 👋 Hi, Aman K
 - 👀 I’m interested in DSA with JAVA
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach Me at Amansinghal1385@gmail.com
 
 <!---
