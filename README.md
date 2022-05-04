@@ -1,6 +1,6 @@
 - 👋 Hi, Kumar Aman
 - 👀 I’m interested in DSA with JAVA
-- 🌱 I’m currently learning DevOps
+- 🌱 UI/UX Lover
 - 📫 Reach Me at Amansinghal1385@gmail.com
 
 <!---
