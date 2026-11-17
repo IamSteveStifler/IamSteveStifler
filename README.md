@@ -20,7 +20,6 @@
 - ✈️ Currently building for **United Airlines**. Previously built insurance platforms for **MetLife**
 - 🛠️ Building cloud-native apps with **Java, Spring Boot and Angular**, event-driven microservices with **Apache Kafka**, and high-availability systems on **AWS**
 - 🏆 Recognized by United Airlines stakeholders **3 times** for the Jet Angular migration, Flex Pod delivery and Customer Hub latency improvements
-- 🎓 B.Tech in Computer Science, MAKAUT (2017–2021), GPA 8.27
 
 ### 🛠️ Tech Stack
 
